@@ -1,13 +1,3 @@
----
-title: Binary Search App
-emoji: 🔍
-colorFrom: blue
-colorTo: green
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 
 # Binary Search Test Simulation App
 
